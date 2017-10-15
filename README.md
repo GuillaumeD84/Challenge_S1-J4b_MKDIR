@@ -1,5 +1,6 @@
 # Challenge n°4b
 Intitulé : **MKDIR**  
+Challenge très simple demandant de créer des dossiers via la commande mkdir.
 
 Guillaume DURAND  
 Promo : Explorer  
